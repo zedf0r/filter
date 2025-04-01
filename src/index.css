@@ -8,3 +8,19 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.container {
+  max-width: 1330px;
+  margin: 0 auto;
+}
+
+.toolbar-container {
+  display: flex;
+  column-gap: 10px;
+}
+
+.image-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}

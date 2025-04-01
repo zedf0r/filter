@@ -1,0 +1,11 @@
+.filter {
+  border: 1px solid #000;
+  border-radius: 12px;
+  padding: 12px;
+  cursor: pointer;
+  transition: background 0.4s;
+}
+
+.filter:hover {
+  background: #4f596d;
+}
